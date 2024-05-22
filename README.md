@@ -4,8 +4,7 @@
 [Introduction](#introduction) • [Install](#install) • [Testing](#testing) • [Contact](#contact)
 
 --- 
-<img src="https://github.com/Insanityandme/systemutv-II-frontend/assets/1380257/87e0fe43-34d5-46ca-b7bf-4e783dd30c62"/> 
-
+<img src="https://github.com/Insanityandme/my-happy-plants/assets/1380257/3f345eca-fbae-458a-8dc8-6db6727b023d"/> 
 
 </div>
 
@@ -27,7 +26,7 @@ Our application is divided into two separate parts
 + frontend
 
 ## Backend
-<img src="https://github.com/Insanityandme/systemutv-II-backend/assets/1380257/02761e82-d7dc-44b5-899a-f41c36b56ffe"/> 
+<img src="https://github.com/Insanityandme/my-happy-plants/assets/1380257/e976f1b8-922e-49ce-9d8e-450c451496e0"/> 
 
 ### Initial Setup
 1. ```git clone https://github.com/Insanityandme/systemutv-II-backend.git```
@@ -106,6 +105,3 @@ NOTE: There are two ways to run our tests: By running each file or through the c
 # Contact
 You are welcome to contact me at bengtegardbook@gmail.com if you have any questions on how to setup this environment.
 There might be some mistakes in our installation guide and I apologize for that if that's the case.
-
-
-
