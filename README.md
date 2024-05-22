@@ -57,7 +57,7 @@ Instructions for WINDOWS: https://phoenixnap.com/kb/windows-set-environment-vari
 3. run ```mvn compile``` in the root of the project
 4. run ```mvn clean package``` in the root of the project
 5. run ```java -jar .\target\MyHappyPlants-1.0-SNAPSHOT-jar-with-dependencies.jar```
-6. The server should now be running and should look something like this: ![image](https://github.com/Insanityandme/systemutv-II-backend/assets/1380257/f5db41fd-98fc-4649-89a8-521cb6a91c12)
+6. The server should now be running!
 
 # Testing 
 
@@ -65,16 +65,14 @@ Instructions for WINDOWS: https://phoenixnap.com/kb/windows-set-environment-vari
 1. Go into src/main/testing folder
 2. If Mockito and Junit is installed (it usually is included in your IDE or will be installed through Maven)
 3. Run all files except Helper.java
-4. It should look something like this depending on your editor: 
-![image](https://github.com/Insanityandme/systemutv-II-backend/assets/1380257/be9d35ab-a25d-46b4-9530-bed329ff5aee)
+4. Your tests should now be running
 
 ## Using terminal
 1. Same as with running the server you need to have Maven installed globally on your computer for this to work properly
 1. cd into root of the project
 2. if you've run ```mvn install``` and ```mvn clean package``` you are good to go.
 3. run ```mvn clean test```
-4. It should look something like this: ![image](https://github.com/Insanityandme/systemutv-II-backend/assets/1380257/17a3b794-3187-4fba-9633-2b28bf8554b2)
-
+4. Your tests should now be running!
 
 # Frontend
 This is the frontend part of MyHappyPlants, it is written in React and acts as a replacement of the JavaFX 
@@ -87,8 +85,6 @@ portion of the legacy project we worked on for six weeks our second year of univ
 4. run ```npm install``` to install all dependencies
 5. run ```npm start```
 6. The server should now be running at localhost:3000!
-7. It should look something like this:
-<img src="https://github.com/Insanityandme/systemutv-II-frontend/assets/1380257/87e0fe43-34d5-46ca-b7bf-4e783dd30c62"/> 
 
 # Testing
 NOTE: There are two ways to run our tests: By running each file or through the command line
@@ -97,10 +93,7 @@ NOTE: There are two ways to run our tests: By running each file or through the c
 2. Command line: ```npm test```
 3. Press a to run all tests
 4. Done!
-5. It should look something like this:
-6. IDE: ![image](https://github.com/Insanityandme/systemutv-II-frontend/assets/1380257/1ea8df6a-6cde-4c21-a273-24dd83ca59b0)
-7. Terminal: ![image](https://github.com/Insanityandme/systemutv-II-frontend/assets/1380257/1d8e51f7-d409-4413-a22d-f4aede84fd50)
-8. Sometimes ```npm test``` does not run all 7 test suites, simply rerun and it should catch them all!
+5. Sometimes ```npm test``` does not run all 7 test suites, simply rerun and it should catch them all!
 
 # Contact
 You are welcome to contact me at bengtegardbook@gmail.com if you have any questions on how to setup this environment.
