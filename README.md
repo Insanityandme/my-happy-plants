@@ -1,7 +1,7 @@
 <div align="center">
 
 # MyHappyPlants
-[Install](#install) • [Testing](#testing) • [Contact](#contact)
+[Introduction](#introduction) • [Install](#install) • [Testing](#testing) • [Contact](#contact)
 
 --- 
 <img src="https://github.com/Insanityandme/systemutv-II-frontend/assets/1380257/87e0fe43-34d5-46ca-b7bf-4e783dd30c62"/> 
@@ -10,12 +10,6 @@
 </div>
 
 ---
-### Table of Contents
-- [Introduction](#introduction)
-- [Installation](#install)
-- [Testing](#testing)
-- [Contact](#contact)
-
 
 # Introduction
 MyHappyPlants was originally an incomplete student project written in Java, using JavaFX for all GUI related code. 
@@ -32,7 +26,7 @@ Our application is divided into two separate parts
 + backend
 + frontend
 
-## Back-end
+## Backend
 <img src="https://github.com/Insanityandme/systemutv-II-backend/assets/1380257/02761e82-d7dc-44b5-899a-f41c36b56ffe"/> 
 
 ### Initial Setup
